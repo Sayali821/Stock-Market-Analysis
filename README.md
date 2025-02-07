@@ -1,5 +1,7 @@
 # 📈 Stock Market Analysis Dashboard
 
+![Stock Market Image](https://github.com/Sayali821/Stock-Market-Analysis/blob/1ba6f2967e22ed06aaddbf48dd21e02217501278/istockphoto-2032252194-612x612.jpg)
+
 This **Excel-based Stock Market Dashboard** provides insights into industry trends, stock performance, and fundamental metrics using **Pivot Tables, Charts, and Power Query**.  
 
 ---
@@ -47,5 +49,7 @@ This **Excel-based Stock Market Dashboard** provides insights into industry tren
 
 ---
 
-🚀 **Stay updated for more stock market insights!**  
-📩 *Contributions & feedback are welcome!*  
+## 📊 **Stock Market Dashboard Preview**  
+
+![Dashboard Preview](https://github.com/Sayali821/Stock-Market-Analysis/blob/1ba6f2967e22ed06aaddbf48dd21e02217501278/Dashboard2.jpg) 
+  
